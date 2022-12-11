@@ -1,2 +1,2 @@
 # Regional-Weather-Focus
-This is a desktop application the will give the current weather conditions places in the globe.
+This is a desktop application that will give the current weather conditions of places around the globe.
